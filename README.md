@@ -4,6 +4,7 @@ A powerful, customizable, and easy-to-use **Rich Text Editor** for Flutter appli
 
 Create beautifully formatted content with support for **bold, italic, underline, colors, alignment, lists, links, undo/redo, text formatting, and more** — all inside a clean and customizable editor widget.
 
+## Demo
 <p align="center">
   <img src="example/assets/rich_editor.gif" width="200" alt="Flutter Rich Editor Demo">
 </p>
