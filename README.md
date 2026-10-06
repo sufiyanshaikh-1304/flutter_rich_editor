@@ -6,7 +6,7 @@ Create beautifully formatted content with support for **bold, italic, underline,
 
 ## Demo
 <p align="center">
-  <img src="example/assets/rich_editor.gif" width="200" alt="Flutter Rich Editor Demo">
+  <img src="example/assets/richeditor.gif" width="200" alt="Flutter Rich Editor Demo">
 </p>
 
 ## ✨ Features
